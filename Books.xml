@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+    <Favourite-Books>
+        <Book id="The-Da-Vinci-Code">
+            <Title>"The Da Vinci Code"</Title>
+            <Author-Name>"Dan Brown"</Author-Name>
+            <Publication-Date>"2003"</Publication-Date>
+            <Description>"la la la la la la"</Description>
+            <Publisher-Name>"Double Day (US)"</Publisher-Name>
+            <Language>"English"</Language>
+            <ISBN>"9780552149518"</ISBN>
+            <top3quotes>"1. To be or not to be"
+                "2. Smack that"
+                "3. Pappi Pappi Chulo"</top3quotes>
+            <Book-ID>"19862003"</Book-ID>
+        </Book>
+        <Book id="The-Client">
+            <Title>"The Client"</Title>
+            <Author-Name>"John Grisham"</Author-Name>
+            <Publication-Date>"1993"</Publication-Date>
+            <Description>"la la la la la la"</Description>
+            <Publisher-Name>"Dell Publishing"</Publisher-Name>
+            <Language>"English"</Language>
+            <ISBN>"9780385424714"</ISBN>
+            <top3quotes>"1. To be or not to be"
+                "2. Smack that"
+                "3. Pappi Pappi Chulo"</top3quotes>
+            <Book-ID>"19861993"</Book-ID>
+        </Book>
+        <Book id="The-Outliers">
+            <Title>"The Outliers"</Title>
+            <Author-Name>"Malcolm Gladwell"</Author-Name>
+            <Publication-Date>"2008"</Publication-Date>
+            <Description>"la la la la la la"</Description>
+            <Publisher-Name>"Brown And Company"</Publisher-Name>
+            <Language>"English"</Language>
+            <ISBN>"9780141036243"</ISBN>
+            <top3quotes>"1. To be or not to be"
+                "2. Smack that"
+                "3. Pappi Pappi Chulo"</top3quotes>
+            <Book-ID>"19862008"</Book-ID>
+        </Book>
+    </Favourite-Books>
